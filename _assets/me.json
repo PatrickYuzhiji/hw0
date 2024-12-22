@@ -1,0 +1,14 @@
+{
+    "name": {
+        "first": "Patric",
+        "last": "Yu"
+    },
+    "fromWisconsin": false,
+    "numCredits": 0,
+    "major": "Computer Science",
+    "interests": [
+        "cooking",
+        "Web Development",
+        "Data Science"
+    ]
+}
